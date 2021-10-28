@@ -1,0 +1,6 @@
+{"distance": {"unit": "m", "value": 0.5},
+  "convert_to": "ft",
+  "units": {
+  "distance":
+  {"mm": 0.001, "yd": 0.9144, "km": 1000}
+}}
